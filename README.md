@@ -108,8 +108,3 @@ Analyze Swiggy's sales data to:
 * Add predictive analytics (sales forecasting)
 
 
----
-
-## 🤝 Connect With Me
-
-If you found this project interesting, feel free to connect or provide feedback!
